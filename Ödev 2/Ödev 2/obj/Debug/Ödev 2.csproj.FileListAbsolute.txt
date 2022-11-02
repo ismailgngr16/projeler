@@ -1,0 +1,23 @@
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe.config
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\bin\Debug\Ödev 2.pdb
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.AssemblyReference.cache
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Form1.resources
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Properties.Resources.resources
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.GenerateResource.cache
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.CoreCompileInputs.cache
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.exe
+C:\Users\gener\OneDrive\Masaüstü\ders\Ödev 2\Ödev 2\obj\Debug\Ödev 2.pdb
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe.config
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\bin\Debug\Ödev 2.pdb
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.AssemblyReference.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Form1.resources
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Form2.resources
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Properties.Resources.resources
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.GenerateResource.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.CoreCompileInputs.cache
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.exe
+C:\Users\gener\OneDrive\Masaüstü\Git\projeler\Ödev 2\Ödev 2\obj\Debug\Ödev 2.pdb
